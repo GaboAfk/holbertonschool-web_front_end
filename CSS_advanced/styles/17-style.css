@@ -123,7 +123,7 @@ a:active {
     color: var(--color-primary);
 }
 
-.section {
+section {
     padding: var(--section-padding);
 }
 
